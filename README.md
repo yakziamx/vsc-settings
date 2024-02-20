@@ -3,7 +3,8 @@
 ## Tabla de contenidos
 * Fuentes
 * Perfiles y extensiones
-    * Extensiones comunes
+    * Default aplicadas a todos los perfiles
+    * Default aplicadas a todos los perfiles (LEGACY)
     * Astro
     * C#
     * Node.js
@@ -13,15 +14,18 @@
 
 ## Perfiles y extensiones
 
-### Extensiones comunes
+### Default aplicadas a todos los perfiles
 * [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 * [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
-* [LubnaDev-Theme](https://marketplace.visualstudio.com/items?itemName=lubnadev.lubnadev-theme)
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 * [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 * [Spanish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es)
+
+### Default aplicadas a todos los perfiles (LEGACY)
+* [LubnaDev-Theme](https://marketplace.visualstudio.com/items?itemName=lubnadev.lubnadev-theme)
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ### Astro
 * [Astro](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode)
